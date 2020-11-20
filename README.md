@@ -2,3 +2,5 @@
 
 A simple program to use the HED Algorithm in a thin section with an aditional canny filter applied
 
+![Example with an olivine XPL thin section](/deteccion_olivino.png)
+![Example with an Sandstone XPL thin section](/deteccion_sandstone.png)
